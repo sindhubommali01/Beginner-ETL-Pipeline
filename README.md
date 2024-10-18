@@ -1,6 +1,6 @@
 # Beginner ETL Pipeline
 
-# End-to-End ETL Pipeline
+
 
 This project provides a Python script that demonstrates a basic end-to-end ETL (Extract, Transform, Load) pipeline. It reads data from a specified source, performs various transformations, and then loads the processed data into a designated location. The `pipeline.py` script is well-documented to help you navigate through the project.
 
